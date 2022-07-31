@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_string_descriptions",
+  "info": {
+    "displayName": "description",
+    "icon": "bars",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "string": {
+      "type": "text"
+    }
+  }
+}
