@@ -28,7 +28,7 @@
       "displayName": "description",
       "type": "component",
       "repeatable": true,
-      "component": "string.description"
+      "component": "group.description"
     }
   }
 }
