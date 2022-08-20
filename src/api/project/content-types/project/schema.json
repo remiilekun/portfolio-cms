@@ -47,6 +47,10 @@
     },
     "link": {
       "type": "json"
+    },
+    "priority": {
+      "type": "integer",
+      "default": 0
     }
   }
 }
